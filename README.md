@@ -1,20 +1,20 @@
-# CMPS138 Spring 2025
+# CMPS138 Spring 2026
 ## Distributed Systems
 | key | value | 
 |-----|-------|
 |When: | Tuesday and Thursday at <b>1:30 PM</b>. |
 |Where: | Social Sciences 1, Room 110 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office (half-)hours:| Tuesdays @9:30am (in my office)|
-||Fridays @10am (on zoom: https://ucsc.zoom.us/j/98589467052?pwd=7X0nXA1Y7QodyaCRUX0baJXqF4B27j.1)|
+|Office (half-)hours:| Thursdays @10:30am (in my office)|
+||online TBD|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|TAs: | [Nihal Talur](ntalur@ucsc.edu>) |
+|TAs: | [Zephiris Evergreen](zejones@ucsc.edu) |
 |TA sections: | See online schedule|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
-|Class discussion forum signup: | [Discord](https://discord.gg/3nw9KNmUBD)|
-|Midterm Date:| <del>Thursday, May 1</del>Tuesday, May 6|
+|Class discussion forum signup: | [Discord](https://discord.gg/MTqN4H8cRf)|
+|Midterm Date:| Tuesday, May 5|
 
 # Description
 
