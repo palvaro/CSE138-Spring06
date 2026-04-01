@@ -2,7 +2,7 @@
 ## Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Tuesday and Thursday at <b>1:30 PM</b>. |
+|When: | Tuesday and Thursday at <b>11:40 AM</b>. |
 |Where: | Social Sciences 1, Room 110 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office (half-)hours:| Thursdays @10:30am (in my office)|
