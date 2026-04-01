@@ -1,4 +1,4 @@
-# CMPS138 Spring 2026
+# CSE138 Spring 2026
 ## Distributed Systems
 | key | value | 
 |-----|-------|
@@ -9,7 +9,7 @@
 ||online TBD|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|TAs: | [Zephiris Evergreen](zejones@ucsc.edu) |
+|TAs: | [Zephiris Evergreen](https://zephiris.me/) |
 |TA sections: | See online schedule|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
@@ -87,7 +87,7 @@ There will be two examinations: the midterm and the final.
 | Project | 30% |
 | Final   | 40%   | 
 
-Final projects are required to pass the course.  The fact that participation accounts for 10% of the grade (and pop quizzes for 5%) should give you an idea of the important of class attendance.  
+Final projects are required to pass the course.  The fact that participation accounts for 10% of the grade (and pop quizzes for 5%) should give you an idea of the important of class attendance.  You can boost your participation grade by (actively) attending office hours and section, as well as by participating in the discord (i.e., asking and answering questions about course content).  Of course, logistic questions (e.g., ``when is the midterm?'' or ``will there be a curve?'') do not count towards participation credit.
 
 # Getting Help
 
@@ -110,4 +110,4 @@ Private Discord questions will typically get a response by the end of the next b
 
 Academic integrity is a requirement for this course (and, indeed, for your entire academic career). All material submitted for a grade must be your own independent work; this includes quizzes, notes, homework, and exams. If you get help on an assignment from anyone other than course staff (professors, TAs, course tutors), you must acknowledge their contribution on your submitted work. This includes help from tutors from MSI and similar programs as well as private tutors—they are not considered part of the course staff. Obviously, any form of collaboration during a quiz or exam is strictly forbidden, but studying in groups for exams is encouraged.
 
-You’re encouraged to discuss class material and concepts with others, and you may discuss general approaches to programming assignments. These discussions may not include specific details, but instead should focus on how to approach the project. You may not look at or discuss someone else’s design documents or code, and you may not show your design documents or code to anyone else (other than the course staff). 
+You’re encouraged to discuss class material and concepts with others, and you may discuss general approaches to programming assignments. These discussions may not include specific details, but instead should focus on how to approach the project. 
